@@ -1,0 +1,90 @@
+[
+  {
+    "http_code": "403",
+    "http_message": "Forbidden",
+    "button_text": "Helpdesk",
+    "button_link": "https://helpdesk.nfdi4plants.org",
+    "message": "STOP! You're not authorised to land",
+    "description": [
+    "You're not authorised to access the requested page.",
+    "If this is a mistake you can report this issue at our helpdesk."
+    ]
+  },
+  {
+    "http_code": "404",
+    "http_message": "Not Found",
+    "button_text": "Go Home",
+    "button_link": "https://nfdi4plants.org",
+    "message": "UH OH! You're lost! ",
+    "description": [
+    "The page you are looking for does not exist.",
+    "How you got here is a mystery. But you can click the button below to go back to the homepage."
+    ]
+  },
+  {
+    "http_code": "410",
+    "http_message": "Gone",
+    "button_text": "Go Home",
+    "button_link": "https://nfdi4plants.org",
+    "message": "UH OH! You could not catch up with your spaceship! ",
+    "description": [
+    "The page you are looking for does not exist anymore.",
+    "You can click the button below to go back to the homepage."
+    ]
+  },
+      {
+    "http_code": "500",
+    "http_message": "Internal Server Error",
+    "button_text": "Helpdesk",
+    "button_link": "https://helpdesk.nfdi4plants.org",
+    "message": "OH NO! Something went wrong...",
+    "description": [
+    "An unexpected error appeared.",
+    "How this happened is a mystery. Please report this error in our helpdesk."
+    ]
+  },
+  {
+    "http_code": "501",
+    "http_message": "Not Implemented",
+    "button_text": "Helpdesk",
+    "button_link": "https://helpdesk.nfdi4plants.org",
+    "message": "OH NO! Where have you gone?",
+    "description": [
+    "We couldn't detect your request method.",
+    "Your spaceship could not dock for reasons of incompatibility. Please report this error in our helpdesk."
+    ]
+  },
+      {
+    "http_code": "502",
+    "http_message": "Service Unavailable",
+    "button_text": "Server Status",
+    "button_link": "https://status.nfdi4plants.org",
+    "message": "OH NO! Where have you gone?",
+    "description": [
+    "This service is currently unavailable.",
+    "Please try again later... or check the server status."
+    ]
+  },
+  {
+    "http_code": "503",
+    "http_message": "Service Unavailable",
+    "button_text": "Server Status",
+    "button_link": "https://status.nfdi4plants.org",
+    "message": "OH NO! Where have you gone?",
+    "description": [
+    "This service is currently unavailable.",
+    "Please try again later... or check the server status."
+    ]
+  },
+  {
+    "http_code": "504",
+    "http_message": "Gateway Timeout",
+    "button_text": "Server Status",
+    "button_link": "https://status.nfdi4plants.org",
+    "message": "OH NO! You have not been able to reach your spaceship!",
+    "description": [
+    "This service is currently unavailable.",
+    "Please try again later... or check the server status."
+    ]
+  }
+]
