@@ -20,8 +20,7 @@ if __name__ == "__main__":
     data = json.load(json_file)
 
     for item in data:
-        print(item)
-        print(item.get("http_code"))
+        print("creating status page for: " +item.get("http_code"))
 
         output_file = open("template.html", "r").read()
 

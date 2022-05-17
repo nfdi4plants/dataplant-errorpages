@@ -1,12 +1,23 @@
 [
+    {
+    "http_code": "301",
+    "http_message": "Moved Permanently",
+    "button_text": "Home",
+    "button_link": "https://nfdi4plants.org",
+    "message": "Woosh! Your target warped to another destination!",
+    "description": [
+    "The requested page has been moved permanently.",
+    "Follow the warp signature by clicking the button below to go back to the homepage."
+    ]
+  },
   {
     "http_code": "403",
     "http_message": "Forbidden",
     "button_text": "Helpdesk",
     "button_link": "https://helpdesk.nfdi4plants.org",
-    "message": "STOP! You're not authorised to land",
+    "message": "STOP! You're not authorized to enter!",
     "description": [
-    "You're not authorised to access the requested page.",
+    "You're not authorized to access the requested page.",
     "If this is a mistake you can report this issue at our helpdesk."
     ]
   },
@@ -26,7 +37,7 @@
     "http_message": "Gone",
     "button_text": "Go Home",
     "button_link": "https://nfdi4plants.org",
-    "message": "UH OH! You could not catch up with your spaceship! ",
+    "message": "It’s time to explore",
     "description": [
     "The page you are looking for does not exist anymore.",
     "You can click the button below to go back to the homepage."
@@ -48,7 +59,7 @@
     "http_message": "Not Implemented",
     "button_text": "Helpdesk",
     "button_link": "https://helpdesk.nfdi4plants.org",
-    "message": "OH NO! Where have you gone?",
+    "message": "Space is full of surprises!",
     "description": [
     "We couldn't detect your request method.",
     "Your spaceship could not dock for reasons of incompatibility. Please report this error in our helpdesk."
@@ -59,7 +70,7 @@
     "http_message": "Service Unavailable",
     "button_text": "Server Status",
     "button_link": "https://status.nfdi4plants.org",
-    "message": "OH NO! Where have you gone?",
+    "message": "OH NO! Discovering the beyond?",
     "description": [
     "This service is currently unavailable.",
     "Please try again later... or check the server status."
@@ -70,7 +81,7 @@
     "http_message": "Service Unavailable",
     "button_text": "Server Status",
     "button_link": "https://status.nfdi4plants.org",
-    "message": "OH NO! Where have you gone?",
+    "message": "OH NO! Discovering the beyond?",
     "description": [
     "This service is currently unavailable.",
     "Please try again later... or check the server status."
@@ -81,7 +92,7 @@
     "http_message": "Gateway Timeout",
     "button_text": "Server Status",
     "button_link": "https://status.nfdi4plants.org",
-    "message": "OH NO! You have not been able to reach your spaceship!",
+    "message": "OH NO! Countdown cancelled!",
     "description": [
     "This service is currently unavailable.",
     "Please try again later... or check the server status."

@@ -1,11 +1,10 @@
 # dataplant-errorpages
 
-This Repository generates error pages for the dataplant proxy. Error pages are build into dst folder.
 
 
 ## Getting started
 
-Execute the build script to build error pages. Before that, build a fresh version of nfdi-webcomponents.js to get the latest version of the nfdi-navbar.
+Execute the build script to generate error pages. Before that, build a fresh version of nfdi-webcomponents.js to get the latest version of the nfdi-navbar.
 
 ## Building the navbar
 
