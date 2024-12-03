@@ -70,7 +70,7 @@
     "http_message": "Service Unavailable",
     "button_text": "Server Status",
     "button_link": "https://status.nfdi4plants.org",
-    "message": "OH NO! Discovering the beyond?",
+    "message": "Discovering the beyond?",
     "description": [
     "This service is currently unavailable.",
     "Please try again later... or check the server status."

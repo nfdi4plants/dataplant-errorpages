@@ -37,8 +37,8 @@ if __name__ == "__main__":
 
         output_file = output_file.replace("${DESCRIPTION}", desc_)
 
-        nfdi_webcomponents = open("nfdi-webcomponents.js", "r").read()
-        output_file = output_file.replace("${NFDI_NAVBAR}", nfdi_webcomponents)
+        # nfdi_webcomponents = open("nfdi-webcomponents.js", "r").read()
+        # output_file = output_file.replace("${NFDI_NAVBAR}", nfdi_webcomponents)
 
 
 
